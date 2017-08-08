@@ -16,7 +16,7 @@
             "email": "api@lipisha.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "Lipisha": "src/"
