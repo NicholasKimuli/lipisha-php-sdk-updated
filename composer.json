@@ -1,6 +1,6 @@
 {
-    "name": "lipisha/sdk",
-    "description": "Lipisha Payments SDK",
+    "name": "nicholaskimuli/lipisha-sdk",
+    "description": "Temporary Lipisha Payments SDK",
     "type": "library",
     "require": {
         "php": ">=5.3.0",
